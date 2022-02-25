@@ -1,3 +1,5 @@
+## [NOT WORKING]
+
 A kivy android app to watch anime **(This is for educational purposes only)**
 
 ## Build from source
